@@ -6,4 +6,5 @@ During my studies and experience, I honed my ability to work with complex data, 
 I am always looking for opportunities to expand my knowledge and skills. I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics topics.
+
 Here is my [CV](https://www.canva.com/design/DAGasHXBa10/w_cn0Nqs24xk4Q3lXRw6NA/edit)
