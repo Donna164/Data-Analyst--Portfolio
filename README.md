@@ -14,7 +14,7 @@ Below is a repository to showcase skills, share projects and track my progress i
 - SQL
   #### 1. Analysis of performance of Racing Pass - in-apps time-limited event 
   #### 2. Analysis of churn users in game apps
-  #### 3. Analysis of new users's behaviors
+  #### 3. Funnel analysis of new users's behaviors
 - Python
   #### 1. A/B test on advertising
 - Power BI
