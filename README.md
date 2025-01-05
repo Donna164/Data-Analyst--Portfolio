@@ -86,7 +86,7 @@ The findings enable the the decision to release new contents,rewards, IAP bundle
 
 **Technology**: VSCode, SQL, Excel
 
-**Result**: The ads of the most appealing rewards won, with the ECPM was 5 times as much as the remaining , while other KPI such as retention rates or sales are not much different. It meant this ads option did not cannibalize other KPI.
+**Result**: The ads of the most appealing rewards won, while it did not cannibalize other KPI such as retention rates or sales. The final decision is to show this type of ads on the apps
 
 ## Education 
 Foreign Trade University: Bachelor of Internation Business, 2018-2022
