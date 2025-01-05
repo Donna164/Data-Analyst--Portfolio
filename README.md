@@ -76,6 +76,8 @@ The findings enable the the decision to release new contents,rewards, IAP bundle
 
 - Python
 ### A/B testing analysis on advertising
+**Code**: [here](https://github.com/Donna164/Data-Analyst--Portfolio/blob/main/ABN%20test%20-%20ads%20options.ipynb)
+
 **Goal**: determine what is more effective between 2 advertisings in terms of monetization, then choose the winner to be displayed in apps, aiming to bringing about more revenue while ensuring good experiences for users
 
 **Description**: ABN test was conducted on 2 advertising options with the same type for 4 days. The user base for this campaign is mainly in the 4 countries, having certain similar patterns and behaviors while using apps. After that, the data analysis was performed to check the significance, make comparision in performance between 3 options
