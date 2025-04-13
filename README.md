@@ -37,11 +37,11 @@ Below are my hands-on data analytics projects
 
 **Goal**: Evaluate the effectiveness of Racing Pass event in terms of monetization aspect 
 
-**Description**: This analysis focuses on evaluating performance of the feature Racing Pass - the most important event in terms of monetization for the game Asphalt 8. The main metrics are: daily players, daily revenue, conversion rate, ARPDAU, retention rate, session length. The process involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), making comparision between seasons with different period
+**Description**: This analysis focuses on evaluating performance of the feature Racing Pass - the most important event in the apps. The main metrics are: daily players, daily revenue, conversion rate, ARPDAU, retention rate, session length. The process involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), making comparision between seasons with different period
 
 **Skills**: SQL query, data cleaning, data analysis, data visualization
 
-**Technology**: SQL, Snowflake, Excel
+**Technology**: SQL, Excel, Google Data Studio, Looker
 
 **Result**: 4-week racing pass performs better than the 3-week one, with more daily active players, higher retention rate, conversion rate, and ARPDAU. The findings leads to decision to officially apply the 4-week time frame, customize the IAP bundles and rewards for each user's segmentation, thus boosing daily sales by 17%
 
@@ -84,7 +84,7 @@ The findings enable the the decision to release new contents,rewards, IAP bundle
 
 **Skills**: Statiscial techniques and analysis, SQL, Python
 
-**Technology**: VSCode, SQL, Excel
+**Technology**: VSCode, SQL, Excel, Google Data Studio, Looker
 
 **Result**: The ads of the most appealing rewards won, while it did not cannibalize other KPI such as retention rates or sales. The final decision is to show this type of ads on the apps
 
