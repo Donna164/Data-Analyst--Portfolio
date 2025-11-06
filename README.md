@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 ## About me
-Hi, I'm Ngoc Anh! I have an analytical background in apps product and gaming industry. Over 2 years working in this area, I have built a strong background and nutured passion for analysing data to uncover meaningful insights. I am excited to bring my technical skills and analysis to into solving problems and making important decisions to improve the products effectively
+Hi, I'm Ngoc Anh! I have an analytical background in apps product industry. Over 2 years working in this area, I have built a strong background and nutured passion for analysing data to uncover meaningful insights. I am excited to bring my technical skills and analysis to into solving problems and making important decisions to improve the products effectively
 
 During my studies and experience, I honed my ability to work with complex data to indentify patterns and trends. I am used to working with SQL, Excel, Python, Looker, Power BI, and also Tableau, providing dashboards and analysis to monitor product's performance . Also, Having experience in statistical analysis, data tracking and management, data pipeline, together with other related certificates, has helped me gained valuable assets to continue develop myself in this field
 
