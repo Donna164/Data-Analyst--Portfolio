@@ -19,7 +19,7 @@ Below is a repository to showcase skills, share projects and track my progress i
   #### 1. A/B test on advertising
 - Power BI
   #### - Analysis of churn users at loading screen
-  #### - Employee and project performance
+  #### - KPI performane dashboard
   #### - Overview market report in pharmaceutical industry
 - Excel
 -  Looker
@@ -75,6 +75,18 @@ The findings enable the the decision to release new contents,rewards, IAP bundle
 **Technology**: SQL, Snowflake, Excel, Power BI 
 
 **Result**: Users quit the most in the first 3 steps of the FTUE. The insights helped the development teams to come up with solutions to optimize loading process, re-design and fasten the tutotial phases, reducing churn rate by 2%
+
+### KPI performane dashboard
+
+**Goal**: The goal of the dashboard is to monitor performance and progress of employees towards the business objectives
+
+**Description**: The company has set various KPI to grow their business. KPI has been applied to employees for a certain time period. However, they have not had any dashboards, or data insights about what they are doing good, what they need to improve, what KPI is being achieved well, and which is not. Therefore, they decided to build Power BI dashboard to have the overview of employee performance, as well as KPI achievement
+
+**Skills**: Power BI, DAX, SQL, Excel
+
+**Technology**: Power BI
+
+**Result**: The dashboard shows the top KPI which employee achieved the best, the top leading employees and departments, as well as recommended actions to improve performance
 
 - Python
 ### A/B testing analysis on advertising
